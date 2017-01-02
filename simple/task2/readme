@@ -1,0 +1,5 @@
+Just run server first and then client
+
+Examples
+1. terminal: ./server.py
+2. terminal: ./client.py -f <fail>
